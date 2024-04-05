@@ -33,6 +33,7 @@ Perform queries on the database using natural language. Examples include describ
 ### 4. Query Database with Natural Language
    - Use the agent executor to perform queries on the database using natural language.
    - Examples include describing tables, recovering from errors, and retrieving specific data.
+     
 
 ## Conclusion
 By following these steps, you can effectively set up and utilize the SQL Database Agent to interact with SQL databases using natural language queries.
